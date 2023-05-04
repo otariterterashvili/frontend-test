@@ -1,3 +1,10 @@
+# run
+
+```
+yarn install
+yarn dev
+```
+
 # Inproving part
 
 - add memoization
